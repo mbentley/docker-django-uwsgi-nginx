@@ -2,7 +2,7 @@ mbentley/django-uwsgi-nginx
 ==================
 
 docker image for django (uwsgi) & nginx
-based off of stackbrew/debian:jessie
+based off of debian:jessie
 
 To pull this image:
 `docker pull mbentley/django-uwsgi-nginx`
